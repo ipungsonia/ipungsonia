@@ -1,4 +1,4 @@
-## Hello fellas 👋
+### Hello fellas 👋
 # My name is Ipung Sonia😄
 
 - 🔭 I’m currently majoring at Information Engineering UGM
