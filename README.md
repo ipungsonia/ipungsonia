@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning react, redux, and Next.js
 
 ![](https://komarev.com/ghpvc/?username=your-github-ipungsonia)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipungsonia)](https://github.com/ipungsonia/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipungsonia)](https://github.com/ipungsonia/github-readme-stats)
