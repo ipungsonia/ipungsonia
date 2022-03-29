@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning react, redux, and Next.js
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipungsonia)](https://github.com/ipungsonia/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipungsonia&theme=dark&show_icons=true)](https://github.com/ipungsonia/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipungsonia)](https://github.com/ipungsonia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipungsonia&theme=dark&show_icons=true)](https://github.com/ipungsonia/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-ipungsonia)
 <!--
