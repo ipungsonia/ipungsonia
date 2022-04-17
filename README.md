@@ -2,9 +2,7 @@
 # My name is Ipung Sonia😄
 
 - 🔭 I’m currently majoring at Information Engineering UGM
-- ⚡ Interested in Web-dev esp. Front end development
-- 🌱 I’m currently learning react, redux, and Next.js
-
+- ⚡ Interested in Web-dev
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipungsonia&theme=dark&show_icons=true)](https://github.com/ipungsonia/github-readme-stats)
 
