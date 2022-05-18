@@ -4,10 +4,6 @@
 - 🔭 I’m currently majoring at Information Engineering UGM
 - ⚡ Interested in Web-dev
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipungsonia&theme=dark&show_icons=true)](https://github.com/ipungsonia/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipungsonia&theme=dark&show_icons=true)](https://github.com/ipungsonia/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=your-github-ipungsonia)
 <!--
 **ipungsonia/ipungsonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
