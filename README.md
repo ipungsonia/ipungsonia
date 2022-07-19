@@ -1,10 +1,16 @@
 ### Hello fellas 👋
-# My name is Ipung Sonia😄
+# My name is Sonia😄
 
-- 🔭 I’m currently majoring at Information Engineering UGM
-- ⚡ Interested in Web-dev
+- 🔭 I’m majoring at Information Engineering UGM
+- ⚡ Interested in Web development
+- 👯 I'm currently volunteering as Software Programmer in GAMAFORCE UGM
+- 😄 Pronouns: she
+- ⚡ Fun fact: 
+- 📫 How to reach me: ...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipungsonia&count_private=true&show_icons=true&theme=cobalt)
 ![](https://komarev.com/ghpvc/?username=your-github-ipungsonia)
+
 <!--
 **ipungsonia/ipungsonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
