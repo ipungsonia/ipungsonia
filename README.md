@@ -9,6 +9,8 @@
 - 📫 How to reach me: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipungsonia&count_private=true&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipungsonia&layout=compact)](https://github.com/ipungsonia/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=your-github-ipungsonia)
 
 <!--
