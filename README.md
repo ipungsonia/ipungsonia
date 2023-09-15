@@ -3,7 +3,7 @@
 
 - 🔭 I’m majoring at Information Engineering UGM
 - ⚡ Interested in Web development
-- 👯 I'm currently volunteering as Software Programmer in GAMAFORCE UGM
+- 👯 I'm currently working as software programmer
 - 😄 Pronouns: she
 
 ![](https://komarev.com/ghpvc/?username=your-github-ipungsonia)
